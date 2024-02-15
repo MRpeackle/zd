@@ -1,5 +1,8 @@
 smth smth
 
+### 1. games description
+an interesting game smth smth
+
 in this code:
 '''py
 import random
