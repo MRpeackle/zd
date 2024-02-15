@@ -1,7 +1,6 @@
 smth smth
 
 in this code:
-
 '''py
 import random
 
